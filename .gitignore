@@ -1,0 +1,8 @@
+coverage
+target
+.idea
+
+config/strategy.yaml
+node_modules/
+.bundle/
+*.DS_Store
