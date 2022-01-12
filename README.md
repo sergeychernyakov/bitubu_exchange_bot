@@ -1,6 +1,6 @@
-# Arke
+# Bitubu
 
-Arke is a trading bot platform
+Bitubu crypto exchange trading bot
 
 ## Exchange Lists
 
@@ -21,7 +21,7 @@ To start local development:
 
 1. Clone the repo:
    ```shell
-   git clone git@github.com/bitubu/mmbot.git
+   git clone git@github.com/sergeychernyakov/bitubu_exchange_bot.git
    ```
 2. Install dependencies
    ```shell
